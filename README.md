@@ -1,2 +1,3 @@
 # 11gray
-A personal typecho themes
+我专用的typecho主题，示例站点：https://fravilion.top/
+此主题已经算是我的博客的一部分了，其中有一些博客的内容，无法直接套用到您的博客上，发在这里我也只是为大家提供一个参考。
